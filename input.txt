@@ -1,0 +1,1 @@
+This is some text data stored in input.txt file.
